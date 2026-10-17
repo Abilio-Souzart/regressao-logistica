@@ -1,0 +1,5 @@
+corte,bons recusados (FP),maus aprovados (FN),acurácia,custo (FP + 5·FN)
+0.5,49,66,0.7444,379
+0.4,71,42,0.7489,281
+0.3,99,27,0.72,234
+0.167,152,8,0.6444,192
